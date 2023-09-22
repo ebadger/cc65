@@ -7,4 +7,4 @@
         .export         _clrscr
         .import         HOME
 
-_clrscr := $C106
+_clrscr := $E006

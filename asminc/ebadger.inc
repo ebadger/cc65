@@ -22,8 +22,8 @@ LASTCHAR :=     $D2     ; last character Read
 ;-----------------------------------------------------------------------------
 ; ROM functions
 
-READCHARUPPER := $C11B
-READCHARASYNC := $C11E
+READCHARUPPER := $F377
+READCHARASYNC := $F385
 
 ;-----------------------------------------------------------------------------
 ; Hardware
